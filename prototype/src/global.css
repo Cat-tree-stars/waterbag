@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply antialiased bg-surface-base text-text-primary overflow-x-hidden;
+  }
+}
+
+:root {
+  --ease-standard: cubic-bezier(0.4, 0, 0.2, 1);
+  --duration-standard: 300ms;
+}

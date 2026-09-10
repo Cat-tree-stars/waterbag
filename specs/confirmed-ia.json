@@ -1,0 +1,7 @@
+{
+  "visual_direction_raw": "温暖简洁的手绘生活感，米白/奶油底色 + 鼠尾草绿点缀，圆角柔和阴影，亲切的生活小抄气质",
+  "pages_raw": "单页：封面 + 六个抽卡章节",
+  "navigation_raw": "单列纵向滚动 + 手风琴式抽卡展开",
+  "frozen_structure": "竖屏单页：顶部封面标题区 → 六张章节卡片（吃饭/喝水/洗衣/洗漱/工作/日用），手风琴式单展开交互",
+  "wireframe_resource_id": "image-8ovR"
+}

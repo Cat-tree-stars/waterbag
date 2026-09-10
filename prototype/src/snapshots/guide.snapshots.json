@@ -1,0 +1,24 @@
+{
+  "page": "guide",
+  "snapshots": [
+    {
+      "id": "guide-baseline",
+      "name": "Closed State",
+      "purpose": "Shows the guide with a large hero header and all chapter cards collapsed.",
+      "priority": "p0",
+      "state": {
+        "expandedId": null
+      }
+    },
+    {
+      "id": "guide-expanded",
+      "name": "Chapter Expanded",
+      "purpose": "Shows the collapsed mini-header and the expanded content of a specific chapter card.",
+      "priority": "p0",
+      "state": {
+        "expandedId": "1"
+      }
+    }
+  ],
+  "_zkStateBundleSha256": "2ac8bbcaeb325a12e3a57a8b845b6c566206b124f56d6dbfc1846f013922477d"
+}

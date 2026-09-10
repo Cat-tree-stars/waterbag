@@ -1,0 +1,104 @@
+{
+  "layoutMode": "HYBRID",
+  "_type_scale_ratio": {
+    "ratio": 1.25,
+    "ratio_name": "Major Third",
+    "body_px": 16,
+    "steps": {
+      "caption": -1,
+      "body": 0,
+      "body-lg": 1,
+      "h3": 2,
+      "h2": 3,
+      "h1": 4,
+      "display": 6
+    },
+    "rounded_px": {
+      "caption": 13,
+      "body": 16,
+      "body-lg": 20,
+      "h3": 25,
+      "h2": 31,
+      "h1": 39,
+      "display": 61
+    }
+  },
+  "_spacing_rhythm": {
+    "base_px": 8,
+    "allowed_multipliers": [
+      0.5,
+      1,
+      1.5,
+      2,
+      3,
+      4,
+      6,
+      8,
+      12,
+      16
+    ],
+    "tokens": {
+      "spacing-micro": 4,
+      "spacing-tight": 8,
+      "spacing-snug": 12,
+      "spacing-base": 16,
+      "spacing-comfortable": 24,
+      "spacing-loose": 32,
+      "spacing-section": 64,
+      "spacing-macro": 128,
+      "spacing-stack-sm": 24,
+      "spacing-stack-md": 32,
+      "spacing-stack-lg": 64
+    }
+  },
+  "colors": {
+    "brand-primary": "hsl(141 10% 48%)",
+    "brand-accent": "hsl(141 10% 51%)",
+    "brand-accent-muted": "hsl(141 10% 92%)",
+    "surface-base": "hsl(36 25% 97%)",
+    "surface-paper": "hsl(36 20% 98%)",
+    "surface-raised": "hsl(0 0% 100%)",
+    "text-primary": "hsl(0 0% 18%)",
+    "text-muted": "hsl(0 0% 45%)",
+    "text-on-accent": "hsl(0 0% 100%)",
+    "border-subtle": "hsl(36 10% 90%)",
+    "border-strong": "hsl(36 10% 82%)"
+  },
+  "fontFamily": {
+    "display": ["Lora", "serif"],
+    "body": ["Inter", "sans-serif"],
+    "zh": ["jfOpenHuninn", "sans-serif"]
+  },
+  "fontSize": {
+    "display": "61px",
+    "h1": "39px",
+    "h2": "31px",
+    "h3": "25px",
+    "body-lg": "20px",
+    "body": "16px",
+    "caption": "13px"
+  },
+  "spacing": {
+    "micro": "4px",
+    "tight": "8px",
+    "snug": "12px",
+    "base": "16px",
+    "comfortable": "24px",
+    "loose": "32px",
+    "section": "64px",
+    "macro": "128px",
+    "stack-sm": "24px",
+    "stack-md": "32px",
+    "stack-lg": "64px"
+  },
+  "borderRadius": {
+    "card": "16px",
+    "button": "16px",
+    "pill": "9999px"
+  },
+  "shadows": {
+    "card-sm": "0 2px 8px rgba(0,0,0,0.04)",
+    "card-md": "0 4px 16px rgba(0,0,0,0.06)",
+    "chapter-active": "0 8px 24px rgba(116, 141, 122, 0.12)"
+  }
+}
