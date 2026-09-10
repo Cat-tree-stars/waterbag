@@ -3,3 +3,5 @@ packages:
   - "business"
   - "prototype"
   - "lib/api-client-react"
+allowBuilds:
+  esbuild: true
